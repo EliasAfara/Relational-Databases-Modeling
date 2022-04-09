@@ -46,3 +46,11 @@ For this first part, you must provide 2 files:
 ## Bonus
 - Provide a third file containing INSERT statements to provide data for all the tables you have created. You can take the relational databases course schedule as an example to generate sample data.
 - Provide a fourth file containing SELECT statements providing the necessary information for the admins (read the text carefully)
+
+## Entity Relationship Diagram Model
+
+![ER Diagram](./ER%20Diagram.png)
+
+### Author
+
+[Elias Afara](https://www.linkedin.com/in/eliasafara/)
